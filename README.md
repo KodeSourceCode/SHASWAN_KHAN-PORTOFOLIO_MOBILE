@@ -1,4 +1,4 @@
-# Portofolio — Day One
+# Portofolio
 
 ## 1. Perkenalan
 
@@ -8,7 +8,7 @@
 
 ## 2. Progres Harian
 
-Hari 1 — fokus: instalasi Vue + Vite, lalu praktek bongkar-pasang komponen di `src/components`.
+- Hari 1 — fokus: instalasi Vue + Vite, lalu praktek bongkar-pasang komponen di `src/components`.
 
 ```sh
 npm create vue@latest
