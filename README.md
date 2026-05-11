@@ -10,8 +10,6 @@
 
 Hari 1 — fokus: instalasi Vue + Vite, lalu praktek bongkar-pasang komponen di `src/components`.
 
-Perintah singkat untuk Day 1:
-
 ```sh
 npm create vue@latest
 cd <project-name>
@@ -19,9 +17,9 @@ npm install
 npm run dev
 ```
 
-Jalankan `npm run dev` lalu buka alamat dev server di browser untuk mencoba komponen.
-
 ## 3. Catatan
+
+Jalankan `npm run dev` lalu buka alamat dev server di browser untuk melihat progres.
 
 - Instalasi Capacitor (opsional untuk nanti):
 
