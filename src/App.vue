@@ -1,4 +1,19 @@
-<script setup>
+<script setup lang="ts">
+import { RouterLink } from "vue-router";
+</script>
+
+<template>
+  <header>
+    <img src="" alt="" />
+    <div class="menu">
+      <RouterLink to="/">Home</RouterLink>
+      <RouterLink to="/project">Project</RouterLink>
+      <RouterLink to="/contact">Contact</RouterLink>
+    </div>
+  </header>
+</template>
+
+<!-- <script setup>
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
 </script>
@@ -82,4 +97,4 @@ nav a:first-of-type {
     margin-top: 1rem;
   }
 }
-</style>
+</style> -->
