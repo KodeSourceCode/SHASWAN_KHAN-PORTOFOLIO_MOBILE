@@ -38,9 +38,24 @@ npm install tailwindcss @tailwindcss/vite
 * Membangun android app menggunakan capacitor
 
 ```sh
-npm install @capacitor/core @capacitor/android
+# install cap
+npm install @capacitor/core @capacitor/android @capacitor/assets
+# inisialisasi cap
 npx cap init
+# menambahkan target os android ke project
 npx cap add android
+# menyinkronkan kode vite ke aplikasi
+npx cap sync android
+# menjalankan aplikasi
+npx cap run android
+```
+
+- Mengganti ikon app
+
+* Taruh file icon di : /resources/icon.png, lalu jalankan
+
+```sh
+npx capacitor-assets generate
 npx cap sync android
 npx cap run android
 ```
