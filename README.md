@@ -17,6 +17,8 @@ npm install
 npm run dev
 ```
 
+- Hari 1 — fokus: perubahan `src/App.vue`, penggunaan vue router, dan instalasi tailwind.
+
 ## 3. Catatan
 
 Jalankan `npm run dev` lalu buka alamat dev server di browser untuk melihat progres.
