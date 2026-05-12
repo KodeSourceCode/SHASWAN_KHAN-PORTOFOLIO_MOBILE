@@ -17,7 +17,7 @@ npm install
 npm run dev
 ```
 
-- Hari 1 — fokus: perubahan `src/App.vue`, penggunaan vue router, dan instalasi tailwind.
+- Hari 2 — fokus: perubahan `src/App.vue`, penggunaan vue router, dan instalasi tailwind.
 
 ## 3. Catatan
 
